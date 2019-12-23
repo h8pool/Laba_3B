@@ -1,4 +1,4 @@
-package laba_3C;
+package laba_3B;
 
 import javax.swing.*;
 import javax.swing.table.TableCellRenderer;

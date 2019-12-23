@@ -1,7 +1,6 @@
-package laba_3C;
+package laba_3B;
 
 import javax.swing.*;
-import java.awt.*;
 
 public class Main_app {
     public static void main(String[] args)

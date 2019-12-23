@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe8cb2cd-ee83-43c5-ab94-34669da41da9" name="Default" comment="Push" />
+    <list default="true" id="fe8cb2cd-ee83-43c5-ab94-34669da41da9" name="Default" comment="Push">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -170,12 +172,12 @@
       <method />
     </configuration>
     <configuration name="Main_app" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="laba_3C.Main_app" />
+      <option name="MAIN_CLASS_NAME" value="laba_3B.Main_app" />
       <module name="Laba_3B" />
       <option name="PROGRAM_PARAMETERS" value="&quot;0.3&quot; &quot;0.5&quot; &quot;11&quot;" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="laba_3C.*" />
+          <option name="PATTERN" value="laba_3B.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,6 +314,7 @@
       <workItem from="1576067666429" duration="233000" />
       <workItem from="1576070127720" duration="986000" />
       <workItem from="1576689235608" duration="191000" />
+      <workItem from="1577118294087" duration="236000" />
     </task>
     <task id="LOCAL-00001" summary="Push">
       <created>1574950708516</created>
@@ -334,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575031211971</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Push">
+      <created>1577118454746</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577118454746</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,6 +371,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1576046267494" />
+    <state x="424" y="6" key="CommitChangelistDialog2" timestamp="1577118664421">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="424" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1577118664421" />
     <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1576689265362">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -385,6 +399,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577118300053" />
+    <state x="361" y="71" key="scopes" timestamp="1577118591951">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="scopes/0.0.1536.824@0.0.1536.824" timestamp="1577118591951" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
